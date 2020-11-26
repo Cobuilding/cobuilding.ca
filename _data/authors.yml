@@ -1,0 +1,20 @@
+Boris Mann:
+  name        : "Boris Mann"
+  bio         : ""
+  avatar      : "/assets/authors/bmann.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://bmannconsulting.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bmann"
+
+Jacob Sayles:
+  name        : "Jacob Sayles"
+  bio         : ""
+  avatar      : "/assets/authors/jacobsayles.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jacobsayles"
