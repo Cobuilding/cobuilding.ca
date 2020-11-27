@@ -7,12 +7,39 @@ fields:
   label: title
   config:
     required: true
-- type: text
-  name: author
-  label: author
+- name: author
+  type: select
+  default: Cobuilding Team
   config:
     required: true
-  default: Cobuilding Team
+    options:
+    - Boris Mann
+    - Jacob Sayles
+    - Cobuilding Team
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: author
+- name: categories
+  type: select
+  default: Cobuilding Update
+  config:
+    required: true
+    options:
+    - " Resource"
+    - Cobuilding Update
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 - name: link
   type: text
   config:
@@ -49,7 +76,3 @@ fields:
     min: 250
     max: 500
   label: excerpt
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
