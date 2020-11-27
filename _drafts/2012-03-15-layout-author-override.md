@@ -1,9 +1,9 @@
 ---
-title: "Layout: Author Override"
+title: 'Layout: Author Override'
 author: Billy Rick
-excerpt: "A post to test author overrides using a data file."
----
+excerpt: A post to test author overrides using a data file.
 
+---
 Sites that may have content authored from various individuals can be accommodated by using [data files](https://jekyllrb.com/docs/datafiles/).
 
 To attribute an author to a post or page that is different from the site author specified in `_config.yml`:
