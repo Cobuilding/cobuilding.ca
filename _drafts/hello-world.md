@@ -5,7 +5,10 @@ tags:
 - meta
 title: Hello World
 link: ''
-header: []
+header:
+- image: "/assets/2020/11/aditya-chinchure-2yn10khntzm-unsplash.jpg"
+  caption: 'Vancouver False Creek Science World, photo by <a href="https://unsplash.com/@adityachinchure">Aditya
+    Chinchure</a> '
 excerpt: ''
 
 ---
