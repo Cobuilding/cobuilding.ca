@@ -2,8 +2,11 @@
 title: 'Layout: Post with Sticky Table of Contents'
 tags:
 - table of contents
+- test
 toc: true
 toc_sticky: true
+author: Boris Mann
+categories: " Resource"
 
 ---
 "Stick" table of contents to the top of a page by adding `toc_sticky: true` to its YAML Front Matter.
