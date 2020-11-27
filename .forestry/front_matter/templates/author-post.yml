@@ -5,9 +5,18 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: author
   label: author
+  config:
+    required: true
+  default: Cobuilding Team
 - type: text
   name: excerpt
   label: excerpt
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
