@@ -12,12 +12,6 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: documents
-- type: directory
-  path: _data
-  label: Data Files
-  create: all
-  match: "**/*"
-  new_doc_ext: ".yml"
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
