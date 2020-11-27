@@ -1,23 +1,23 @@
 ---
-title: "Layout: Header Image Overlay"
+title: 'Layout: Header Image Overlay'
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: "/assets/images/unsplash-image-1.jpg"
+  caption: 'Photo credit: [**Unsplash**](https://unsplash.com)'
   actions:
-    - label: "Call to action 1"
-      url: "https://github.com"
-    - label: "Call to action 2"
-      url: "https://mademistakes.com"
+  - label: Call to action 1
+    url: https://github.com
+  - label: Call to action 2
+    url: https://mademistakes.com
 categories:
-  - Layout
-  - Uncategorized
+- Layout
+- Uncategorized
 tags:
-  - edge case
-  - image
-  - layout
-last_modified_at: 2016-05-02T11:39:01-04:00
----
+- edge case
+- image
+- layout
+last_modified_at: 2016-05-02T11:39:01.000-04:00
 
+---
 This post should display a **header with an overlay image**, if the theme supports it.
 
 Non-square images can provide some unique styling issues.
