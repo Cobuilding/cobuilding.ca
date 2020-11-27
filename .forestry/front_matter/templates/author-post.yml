@@ -40,13 +40,6 @@ fields:
   type: tag_list
   default: []
   label: tags
-- name: link
-  type: text
-  config:
-    required: false
-  label: link
-  description: A link to a website. Will make the title clickable and point to the
-    linked site.
 - name: header
   type: field_group_list
   fields:
