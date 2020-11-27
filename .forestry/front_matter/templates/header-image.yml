@@ -1,0 +1,23 @@
+---
+label: Header Image
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: caption
+    label: caption
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
