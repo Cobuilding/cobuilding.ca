@@ -1,4 +1,29 @@
 ---
-layout: home
-author_profile: true
+layout: archive
+entries_layout: grid
+header:
+  overlay_image: "/assets/2020/11/aditya-chinchure-p0D5zWMaEa0-unsplash-1500px.jpg"
+  caption: "Photo by <a href='https://unsplash.com/photos/p0D5zWMaEa0'>Aditya
+    Chinchure</a>"
+  actions:
+    - label: Get in touch
+      url: /about/
+tagline: "A collaborative community for exploring collective ownership of housing"
 ---
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

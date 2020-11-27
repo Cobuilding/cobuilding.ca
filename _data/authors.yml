@@ -1,7 +1,7 @@
 Boris Mann:
   name        : "Boris Mann"
   bio         : ""
-  avatar      : "/assets/authors/bmann.jpg"
+  avatar      : "/assets/authors/borismann.jpg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
