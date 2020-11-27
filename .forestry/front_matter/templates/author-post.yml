@@ -20,6 +20,24 @@ fields:
   label: link
   description: A link to a website. Will make the title clickable and point to the
     linked site.
+- name: header
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 5
+    label: image
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: caption
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: header
 - name: excerpt
   type: textarea
   default: ''
