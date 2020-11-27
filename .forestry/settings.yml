@@ -9,6 +9,7 @@ sections:
   create: documents
   templates:
   - author-post
+  - link
 - type: jekyll-pages
   label: Pages
   create: documents
