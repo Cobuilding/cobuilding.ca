@@ -69,5 +69,3 @@ fields:
     min: 
     max: 500
   label: excerpt
-pages:
-- _posts/hello-world.md
