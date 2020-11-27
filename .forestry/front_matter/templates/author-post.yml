@@ -73,6 +73,6 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-    min: 250
+    min: 
     max: 500
   label: excerpt
