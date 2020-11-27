@@ -13,8 +13,23 @@ fields:
   config:
     required: true
   default: Cobuilding Team
-- type: text
-  name: excerpt
+- name: link
+  type: text
+  config:
+    required: false
+  label: link
+  description: A link to a website. Will make the title clickable and point to the
+    linked site.
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    min: 250
+    max: 500
   label: excerpt
 - name: tags
   type: tag_list
