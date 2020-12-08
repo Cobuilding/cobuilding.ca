@@ -11,7 +11,7 @@ header:
     caption: "Jacob Sayles of Kanawha Design Studio"
 excerpt: "An introduction to Jacob Sayles"
 ---
-![jacobsayles](/assets/2020/11/JacobSaylesHeadshots.jpg){: .align-left}
+![jacobsayles](/assets/2020/11/jacob_sayles_headshot.jpg){: .align-left}
 My primary focus over the past decade+ has been [coworking](https://coworking.org).
 In 2007 I opened Office Nomads, the first coworking space in Seattle, WA. To
 support this business and others like it, I wrote [Nadine](https://nadineproject.org),
