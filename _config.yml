@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dirt" # "default" , "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cobuilding"
+title                    : "Cobuilding in Vancouver"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cobuilding Team"
-description              : "A collaborative community for exploring collective ownership of housing"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A collaborative community building new collective housing projects in Vancouver, British Columbia.
+url                      : "https://vancouver.cobuilding.ca"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Cobuilding/cobuilding.ca"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -96,7 +96,7 @@ author:
   name             : "Cobuild Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A collaborative community for exploring collective ownership of housing: co-ops, co-housing, community land trusts, and more."
-  # location         : "Vancouver, BC, Canada"
+  location         : "Vancouver, BC, Canada"
   email            :
   links:
     - label: "Email"
