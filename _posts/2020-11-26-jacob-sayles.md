@@ -6,9 +6,9 @@ categories:
 tags:
     - meta
 header:
-    teaser: "/assets/2020/11/JacobSaylesHeadshots.jpg"
+    teaser: "/assets/2020/11/jacob_sayles_headshot.jpg"
     image: "/assets/2020/11/kanawha_banner.jpg"
-    caption: "Jaob Sayles of Kanawha Design Studio"
+    caption: "Jacob Sayles of Kanawha Design Studio"
 excerpt: "An introduction to Jacob Sayles"
 ---
 ![jacobsayles](/assets/2020/11/JacobSaylesHeadshots.jpg){: .align-left}
