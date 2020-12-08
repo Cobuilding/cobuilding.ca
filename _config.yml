@@ -20,7 +20,7 @@ title                    : "Cobuilding in Vancouver"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cobuilding Team"
-description              : "A collaborative community building new collective housing projects in Vancouver, British Columbia.
+description              : "A collaborative community building new collective housing projects in Vancouver, British Columbia."
 url                      : "https://vancouver.cobuilding.ca"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Cobuilding/cobuilding.ca"
