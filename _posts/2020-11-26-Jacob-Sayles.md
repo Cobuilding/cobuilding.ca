@@ -23,8 +23,8 @@ in the old Downtown Vancouver Police building.
 
 I have also been activly involved with many housing projects.  In 2003
 I lived in [Puget Ridge Cohousing](http://www.pugetridge.net) and was hooked on the
-concept of intentional living.  Later I ran my own shared home known
-affectionatly as The Purple for 14 years.  My wife and I worked on converting
+concept of intentional living.  Later I ran my own shared home, affectionatly
+know as The Purple, for 14 years.  My wife and I worked on converting
 [The Red Victorian](https://en.wikipedia.org/wiki/The_Red_Victorian) into a coliving
 hotel in San Francisco, CA.  I continued to help out with software and reservation
 systems for [The Embassy Network](https://embassynetwork.com).
