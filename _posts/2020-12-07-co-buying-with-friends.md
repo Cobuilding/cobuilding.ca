@@ -3,6 +3,7 @@ categories:
 - Link
 - Article
 - Video
+- Resource
 tags:
 - Supernuclear
 - co-buying

@@ -1,6 +1,6 @@
 ---
 categories:
-- Article
+- Resource
 tags:
 - co-ops, non-profit
 - City of Vancouver
