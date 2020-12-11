@@ -4,7 +4,20 @@ layout: archive
 
 {{ content }}
 
+<h2>Posts</h2>
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
+
+<!-- I'm not sure what this is trying to do but it doesn't work -- JLS -->
+<!-- <div class="entries-{{ entries_layout }}">
   {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
+</div> -->
+
+<div class="entries-{{ entries_layout }}">
+  {% for category in site.categories %}
+    {% if category[0] == page.category %}
+      {% for post in category %}
+        {% include archive-single.html type=entries_layout %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
 </div>

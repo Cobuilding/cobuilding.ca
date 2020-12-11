@@ -2,6 +2,15 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Resources"
+    url: /category/resource/
+  - title: "Projects"
+    url: /category/project/
+  - title: "People"
+    url: /category/person/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

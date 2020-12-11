@@ -3,6 +3,7 @@ author: "Jacob Sayles"
 title: Jacob Sayles
 categories:
     - Team
+    - Person
 tags:
     - meta
 header:

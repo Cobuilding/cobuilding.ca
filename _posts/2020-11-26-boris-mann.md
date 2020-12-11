@@ -1,9 +1,10 @@
 ---
 author: "Boris Mann"
 categories:
-- Update
+    - Team
+    - Person
 tags:
-- meta
+    - meta
 title: Boris Mann
 header:
   teaser: "/assets/authors/borismann.jpg"
